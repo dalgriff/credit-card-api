@@ -1,7 +1,6 @@
 
 # Credit Card API
-
-![Credit Card API Logo](path-to-logo-if-any.png)
+![credit-card-icon-png-4416.png](img%2Fcredit-card-icon-png-4416.png)
 
 The Credit Card API is a Spring Boot application designed to provide RESTful endpoints related to credit card operations. Originally built using JDBC, this project serves as a teaching aid to demonstrate the process of refactoring and upgrading a Spring Boot application.
 
